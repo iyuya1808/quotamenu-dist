@@ -1,0 +1,40 @@
+Copyright (c) 2026 Yuya Itonaga. All rights reserved.
+
+Permission is hereby granted to any person to download, install, and use this software.
+
+However, unauthorized commercial distribution, modification for resale, or sublicensing of this software is strictly prohibited.
+
+---
+
+【日本語訳（参考）/ Japanese Translation (Reference only)】
+本ソフトウェアをダウンロード、インストール、および使用することを、どなたに対しても許可します。
+ただし、無断での商業目的の配布、転売を目的とした改変、またはサブライセンスは厳しく禁止します。
+※この日本語訳は参考であり、法的な解釈においては英語の原文が優先されます。
+
+---
+
+## Third-Party Licenses & Acknowledgements
+
+This software is based on s-age/ccmeter (Copyright (c) 2025 s-age), which is licensed under the MIT License:
+
+MIT License
+
+Copyright (c) 2025 s-age
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
