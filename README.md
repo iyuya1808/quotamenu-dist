@@ -34,6 +34,8 @@ QuotaMenu は、[Claude Code](https://docs.anthropic.com/en/docs/claude-code) �
 
 ## 🚀 インストール方法 (Installation)
 
+配布用の公開リポジトリは [iyuya1808/quotamenu-dist](https://github.com/iyuya1808/quotamenu-dist) です。DMG、Sparkle の自動アップデート feed、Homebrew Cask はこのリポジトリから配布されます。
+
 ### 1. Homebrew からインストール (推奨)
 ターミナルを開き、以下のコマンドを実行するだけでインストールできます。
 
