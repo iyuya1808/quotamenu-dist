@@ -1,6 +1,6 @@
 cask "quotamenu" do
-  version "1.1.0"
-  sha256 "cc194e047d5f9a6fe042ccc3663749cb22dfd5554aaa02dffa329d0fa1ecaf86"
+  version "1.1.1"
+  sha256 "22d2b0bb7457c658504e1f6e5b76f9bb0d117798c8c663013bad8e3fca8454d4"
 
   url "https://github.com/iyuya1808/quotamenu-dist/releases/download/latest/QuotaMenu.dmg"
   name "QuotaMenu"
